@@ -27,7 +27,7 @@ E) Model building and training:
 F) Model evaluation and selection:
 
 1. The script iterates through different combinations of hyperparameters (dropout rates, learning rates, optimizers, and bidirectional options) and stores the models with their respective validation losses.
-2. It then selects the best model based on the lowest validation loss and plots the training and validation loss for that model.
+2. It then selects the best model based on the lowest validation loss.
 
 G) Price prediction and confidence intervals:
 
